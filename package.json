@@ -1,0 +1,14 @@
+{
+  "name": "test-node-cicd",
+  "version": "1.0.0",
+  "description": "\"My entry into the wonderful world of DevOps!\"",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "express": "^4.16.3"
+  }
+}
